@@ -10,8 +10,9 @@ Pull requests with new licenses are always welcome!
 Because it's pretty! But most importantly, it's easier to read; after all, licenses are read by humans, not computers.
 
 Compare these two files:
- - [GNU GPL v3 - Original plaintext version](http://www.gnu.org/licenses/gpl-3.0.txt)
- - [GNU GPL v3 - Markdown formatted version](files/gpl3.md)
+
+- [GNU GPL v3 - Original plaintext version](http://www.gnu.org/licenses/gpl-3.0.txt)
+- [GNU GPL v3 - Markdown formatted version](files/gpl3.md)
 
 ### Isn't editing the license a violation of the license?
 
@@ -27,4 +28,3 @@ If there is any inconsistency between the markdown formatted license and the lic
 please refer to the original license (found in [files/CREDITS.md](files/CREDITS.md)) for the _correct_ wording.
 
 Please read the licenses ahead of time to make sure they are correct, and use them at your own risk. Although we have strived to keep the license wording identical to the originals, we are not responsible for any legal implications caused by discrepancies in the licenses.
-
